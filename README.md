@@ -1,0 +1,1 @@
+This is ozzie17's firsst git project! 
